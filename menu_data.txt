@@ -1,0 +1,16 @@
+T_Shirts
+Hiking_Boots
+Running_Shoes
+Hoodie_Jacket
+Jeans_Shorts
+Camp_Shit
+Suit
+Jacket
+Blouse
+Cropped_Jeans
+Shorts
+Hoodies_1
+Caps
+Scarf
+Sweater
+Tie
